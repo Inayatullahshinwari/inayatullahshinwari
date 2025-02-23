@@ -8,6 +8,7 @@
 
 ## Social Media 🌐:
 [![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/IUShinwari)
+[![Twitter](https://img.shields.io/badge/-Twitter-1da1f2?logo=twitter&logoColor=white&style=flat)](https://twitter.com/IUShinwari)
 [![linkedin](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat)](https://www.linkedin.com/in/inayatullah-shinwari-9ba0511bb/)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=flat)](https://www.facebook.com/profile.php?id=100050628697679)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=Instagram&logoColor=white&style=flat)](https://discordapp.com/users/740145632655704074)
@@ -20,12 +21,14 @@
 <img src="https://img.shields.io/badge/-BOOTSTRAP-7952B3?logo=Bootstrap&logoColor=white&style=for-the-badge" alt="Bootstrap"/>
 <img src="https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=TailwindCSS&logoColor=white&style=for-the-badge" alt="TailwindCSS">
 <img src="https://img.shields.io/badge/-JavaScript-000?logo=JavaScript&logoColor=F7DFF1E&style=for-the-badge" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/-Vue.js-4FC08D?logo=Vue.js&logoColor=white&style=for-the-badge" alt="Vue.js"/>
 <img src="https://img.shields.io/badge/-Python-3776ab?logo=Python&logoColor=white&style=for-the-badge" alt="Python"/>
 <img src="https://img.shields.io/badge/-PHP-777bb4?logo=PHP&logoColor=white&style=for-the-badge" alt="PHP"/>
 <img src="https://img.shields.io/badge/-C_sharp-003b57?logo=Java&logoColor=white&style=for-the-badge" alt="C#"/>
 <img src="https://img.shields.io/badge/-Java-ff2d20?logo=Java&logoColor=white&style=for-the-badge" alt="Java"/>
 <img src="https://img.shields.io/badge/-Django-092e20?logo=Django&logoColor=white&style=for-the-badge" alt="Django"/>
 <img src="https://img.shields.io/badge/-Laravel-ff2d20?logo=Laravel&logoColor=white&style=for-the-badge" alt="Laravel"/>
+  <img src="https://img.shields.io/badge/-Docker-0DB7ED?logo=Docker&logoColor=white&style=for-the-badge" alt="Docker"/>
 <img src="https://img.shields.io/badge/-Git-f05032?logo=Git&logoColor=white&style=for-the-badge" alt="Git"/>
 <img src="https://img.shields.io/badge/-github-181717?logo=Github&logoColor=white&style=for-the-badge" alt="Github"/>
 <img src="https://img.shields.io/badge/-MYSQL-4479a7?logo=MYSQL&logoColor=white&style=for-the-badge" alt="MYSQL"/>
