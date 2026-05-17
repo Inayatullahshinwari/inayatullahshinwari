@@ -42,6 +42,5 @@ Currently engineering scalable platforms at **Afghanistan Oil & Gas Corporation 
 
 ### ⚡ Currently
 
-- Building a pharmacy management system with Tauri + NestJS
 - Exploring AI/ML for developer tooling
 - Open to interesting conversations and collaborations
