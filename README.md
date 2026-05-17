@@ -1,53 +1,47 @@
-# Hi, I'm Inayatullah 👋
+### Hi there 👋
 
-**Senior Software Engineer** · Kabul, Afghanistan
+I'm **Inayatullah**, a Senior Software Engineer based in Kabul, Afghanistan. I build production-grade systems and care deeply about clean architecture, developer experience, and shipping software that lasts.
 
-6+ years building production-grade systems across web, desktop, and infrastructure. Currently engineering scalable platforms at **Afghanistan Oil & Gas Corporation (AOGC)**.
-
----
-
-## 🚀 Featured Projects
-
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Git Cheatsheet](https://inayatullahshinwari.github.io/git-cheatsheet) | 80+ Git commands with search, copy, dark mode & PDF | Tailwind, Alpine.js |
-| [Portfolio](https://inayatullahshinwari.github.io) | Terminal-style portfolio with VS Code aesthetic | Tailwind, Alpine.js |
-| [GSP Invest Platform](https://invest.com.af/) | Investment platform with QR docs & REST APIs | Django, Laravel, Docker |
-| [AOGC Platform](https://aogc.dev/docs) | Enterprise platform with ERPNext integration | Laravel, PostgreSQL, Docker |
+Currently engineering scalable platforms at **Afghanistan Oil & Gas Corporation (AOGC)**.
 
 ---
 
-## 💻 Tech Stack
+### 🚀 Featured Work
 
-**Languages:** Python · PHP · JavaScript · C#
+**[Git Cheatsheet](https://inayatullahshinwari.github.io/git-cheatsheet)** — A free, open-source Git reference tool with 80+ commands, instant search, copy-to-clipboard, and a downloadable PDF.
 
-**Frontend:** Vue.js 3 · React · Tailwind CSS
+**[Portfolio](https://inayatullahshinwari.github.io)** — A terminal-style personal portfolio with a VS Code aesthetic.
 
-**Backend:** Django · Laravel · FastAPI · NestJS
+**[GSP Invest Platform](https://invest.com.af/)** — An investment platform with secure document generation, QR code access, and REST API integrations.
 
-**Database:** PostgreSQL · MySQL
-
-**DevOps:** Docker · Git · GitHub Actions · CI/CD · Linux
-
-**Tools:** Vim · tmux
+**[AOGC Platform](https://aogc.dev/docs)** — An enterprise platform with ERPNext integration, REST APIs, and workflow automation.
 
 ---
 
-## 📫 Connect
+### 💻 Tech Stack
+
+| Category | Technologies |
+|----------|-------------|
+| **Languages** | Python, PHP, JavaScript, C# |
+| **Frontend** | Vue.js 3, React, Tailwind CSS |
+| **Backend** | Django, Laravel, FastAPI, NestJS |
+| **Database** | PostgreSQL, MySQL |
+| **DevOps** | Docker, Git, GitHub Actions, CI/CD, Linux |
+| **Tools** | Vim, tmux |
+
+---
+
+### 📫 Let's Connect
 
 - **Email:** [inayatullah.shinwari.official@gmail.com](mailto:inayatullah.shinwari.official@gmail.com)
 - **LinkedIn:** [inayatullah-shinwari](https://www.linkedin.com/in/inayatullah-shinwari-9ba0511bb/)
-- **X (Twitter):** [@IUShinwari](https://x.com/IUShinwari)
+- **X:** [@IUShinwari](https://x.com/IUShinwari)
 - **Portfolio:** [inayatullahshinwari.github.io](https://inayatullahshinwari.github.io)
 
 ---
 
-## 📊 GitHub Stats
+### ⚡ Currently
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inayatullahshinwari&theme=algolia&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=inayatullahshinwari&theme=algolia&hide_border=true" width="400">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inayatullahshinwari&theme=algolia&hide_border=true&layout=compact" width="400">
-</p>
+- Building a pharmacy management system with Tauri + NestJS
+- Exploring AI/ML for developer tooling
+- Open to interesting conversations and collaborations
