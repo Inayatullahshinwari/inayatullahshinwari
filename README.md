@@ -8,7 +8,7 @@ Currently engineering scalable platforms at **Afghanistan Oil & Gas Corporation 
 
 ### 🚀 Featured Work
 
-**[Git Cheatsheet](https://inayatullahshinwari.github.io/git-cheatsheet)** — A free, open-source Git reference tool with 80+ commands, instant search, copy-to-clipboard, and a downloadable PDF.
+**[Git Cheatsheet](https://git-cheatsheet-ius.vercel.app/)** — A free, open-source Git reference tool with 80+ commands, instant search, copy-to-clipboard, and a downloadable PDF.
 
 **[Portfolio](https://inayatullahshinwari.github.io)** — A terminal-style personal portfolio with a VS Code aesthetic.
 
