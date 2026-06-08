@@ -2,7 +2,7 @@
 
 I'm **Inayatullah**, a Senior Software Engineer based in Kabul, Afghanistan. I build production-grade systems and care deeply about clean architecture, developer experience, and shipping software that lasts.
 
-Currently engineering scalable platforms at **Afghanistan Oil & Gas Corporation (AOGC)**.
+Currently, engineering scalable platforms at **Afghanistan Oil & Gas Corporation (AOGC)**.
 
 ---
 
@@ -23,7 +23,7 @@ Currently engineering scalable platforms at **Afghanistan Oil & Gas Corporation 
 | Category | Technologies |
 |----------|-------------|
 | **Languages** | Python, PHP, JavaScript, C# |
-| **Frontend** | Vue.js 3, React, Tailwind CSS |
+| **Frontend** | Vue.js 3, React, AlpineJS, Tailwind CSS |
 | **Backend** | Django, Laravel, FastAPI, NestJS |
 | **Database** | PostgreSQL, MySQL |
 | **DevOps** | Docker, Git, GitHub Actions, CI/CD, Linux |
@@ -36,7 +36,7 @@ Currently engineering scalable platforms at **Afghanistan Oil & Gas Corporation 
 - **Email:** [inayatullah.shinwari.official@gmail.com](mailto:inayatullah.shinwari.official@gmail.com)
 - **LinkedIn:** [inayatullah-shinwari](https://www.linkedin.com/in/inayatullah-shinwari-9ba0511bb/)
 - **X:** [@IUShinwari](https://x.com/IUShinwari)
-- **Portfolio:** [inayatullahshinwari.github.io](https://inayatullahshinwari.github.io)
+- **Portfolio:** [inayatullahshinwari.github.io](https://inayatullah.dev)
 
 ---
 
