@@ -36,7 +36,7 @@ Currently, engineering scalable platforms at **Afghanistan Oil & Gas Corporation
 - **Email:** [inayatullah.shinwari.official@gmail.com](mailto:inayatullah.shinwari.official@gmail.com)
 - **LinkedIn:** [inayatullah-shinwari](https://www.linkedin.com/in/inayatullah-shinwari-9ba0511bb/)
 - **X:** [@IUShinwari](https://x.com/IUShinwari)
-- **Portfolio:** [inayatullahshinwari.github.io](https://inayatullah.dev)
+- **Portfolio:** [https://inayatullah.dev](https://inayatullah.dev)
 
 ---
 
